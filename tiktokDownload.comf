@@ -1,2 +1,4 @@
-#重写引用TikTok去水印
+#本地已复写解锁使用
+#重写引用
+#TikTok去水印下载
 https?:\/\/.*\.tiktokv\.com\/aweme\/v\d\/(feed|mix\/aweme|aweme\/post|(multi\/)?aweme\/detail|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list|aweme\/favorite) url script-response-body https://raw.githubusercontent.com/dengzd1993/beifen/main/tiktok.js

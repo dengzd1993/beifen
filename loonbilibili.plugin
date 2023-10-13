@@ -1,5 +1,6 @@
-#!name = 京东比价
-#!desc = 在京东应用内嵌入比价信息，点击商品标题即可查看。
+#!name = 哔哩哔哩自动换区
+#!desc = 哔哩哔哩(白图标外区版), 港澳台番剧自动切换地区 & 显示豆瓣评分。如需禁用豆瓣评分或策略通知, 可前往BoxJs设置.
+BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 #!icon = https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/bilibili.png
 
 [Script]
